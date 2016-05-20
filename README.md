@@ -3,6 +3,8 @@
 ### Introduction:
 This repo belongs to the word clock made by Jordy Moors. This should contain the required code to get this up and running, along with the steps on how to do this.
 
+It makes use of the RGB pixel clock which is included in the kit. More information about that can be found on the respective Github page, which can be found over [here](http://github.com/spark/rgb-pixel-clock). 
+
 ![Word Clock](https://github.com/spark/wordclock/blob/master/images/word-clock-front.jpg)
 
 ### Parts List:
