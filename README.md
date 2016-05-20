@@ -3,6 +3,8 @@
 ### Introduction:
 This repo belongs to the word clock made by Jordy Moors. This should contain the required code to get this up and running, along with the steps on how to do this.
 
+![Word Clock](https://github.com/spark/wordclock/blob/master/images/word-clock-front.jpg)
+
 ### Parts List:
 
 - RGB matrix panel
@@ -50,6 +52,8 @@ Turn the whole thing over, keeping the arrow still pointing upwards. Now, put th
  Put the Photon in the shield that came with the kit, aligning it with the outline on the board. Then, screw in the wired connector to the board, taking care you use the red wires for positive and the black ones for negative. Place the board on the panel, making sure the connector is in the middle of the left receptor:
 
 ![Step 7](https://github.com/spark/wordclock/blob/master/images/step7.jpg)
+
+![Step 7b](https://github.com/spark/wordclock/blob/master/images/rgb-clock-back.jpg)
  
 Then put the back cover on the case and secure it with some tape. Insert the power cable while you're at it: 
 
