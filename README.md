@@ -87,4 +87,4 @@ If you turn it on, you should be good to go!
 
 ### Troubleshooting:
 
-Link to the community thread yet to be added.
+http://community.particle.io/t/word-clock-kit-maker-faire-2016/23048
