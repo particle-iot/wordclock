@@ -26,7 +26,7 @@ Tools needed:
 
 ### Assembly Guide:
 
-First off, start by peeling all the protective paper off the acrylic. Especially with the lettering plate care should be taken to avoid damaging the letters. Puts the parts aside, and familiarize yourself with what parts you've got.
+First off, start by peeling all the protective paper off the acrylic. Especially with the lettering plate care should be taken to avoid damaging the letters. Put the parts aside, and familiarize yourself with what parts you've got.
 
 ![Step 1](https://github.com/spark/wordclock/blob/master/images/step1.jpg)
 
@@ -38,7 +38,7 @@ Put the sides on, making sure to keep the one with the small hole on the bottom,
 
 ![Step 2](https://github.com/spark/wordclock/blob/master/images/step2.jpg)
 
-Turn the whole thing over, keeping the arrow still pointing upwards. Now, put the raster plate in. then, cut a piece of paper (or diffuser of choice) to size to fit in over the raster. The size would be 7.56” square (192mm). Once thats cut, put it over the raster. Then lay in the letter plate so it’s actually readable (top left should say “ITS…”). Attach this with a piece of tape to hold it in place.
+Turn the whole thing over, keeping the arrow still pointing upwards. Now, put the raster plate in. Then, cut a piece of paper (or diffuser of choice) to size to fit in over the raster. The size would be 7.56” square (192mm). Once that's cut, put it over the raster. Then lay in the letter plate so it’s actually readable (top left should say “ITS…”). Attach this with a piece of tape to hold it in place.
 
 ![Step 3](https://github.com/spark/wordclock/blob/master/images/step3.jpg)
 
