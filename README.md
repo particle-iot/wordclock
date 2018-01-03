@@ -3,9 +3,9 @@
 ### Introduction:
 This repo belongs to the word clock made by Jordy Moors. This should contain the required code to get this up and running, along with the steps on how to do this.
 
-It makes use of the RGB pixel clock which is included in the kit. More information about that can be found on the respective Github page, which can be found over [here](http://github.com/spark/rgb-pixel-clock). 
+It makes use of the RGB pixel clock which is included in the kit. More information about that can be found on the respective Github page, which can be found over [here](http://github.com/particle-iot/rgb-pixel-clock). 
 
-![Word Clock](https://github.com/spark/wordclock/blob/master/images/word-clock-front.jpg)
+![Word Clock](https://github.com/particle-iot/wordclock/blob/master/images/word-clock-front.jpg)
 
 ### Parts List:
 
@@ -28,38 +28,38 @@ Tools needed:
 
 First off, start by peeling all the protective paper off the acrylic. Especially with the lettering plate care should be taken to avoid damaging the letters. Put the parts aside, and familiarize yourself with what parts you've got.
 
-![Step 1](https://github.com/spark/wordclock/blob/master/images/step1.jpg)
+![Step 1](https://github.com/particle-iot/wordclock/blob/master/images/step1.jpg)
 
 Lay the LED matrix face down on the table, with the arrow pointing upwards. Then put the small slim acrylic pieces on the two sides, notches pointing outwards.
 
-![Step 1b](https://github.com/spark/wordclock/blob/master/images/step1b.jpg) 
+![Step 1b](https://github.com/particle-iot/wordclock/blob/master/images/step1b.jpg) 
 
 Put the sides on, making sure to keep the one with the small hole on the bottom, and with the longer notches pointing towards the table. Attach this with tape temporarily.
 
-![Step 2](https://github.com/spark/wordclock/blob/master/images/step2.jpg)
+![Step 2](https://github.com/particle-iot/wordclock/blob/master/images/step2.jpg)
 
 Turn the whole thing over, keeping the arrow still pointing upwards. Now, put the raster plate in. Then, cut a piece of paper (or diffuser of choice) to size to fit in over the raster. The size would be 7.56” square (192mm). Once that's cut, put it over the raster. Then lay in the letter plate so it’s actually readable (top left should say “ITS…”). Attach this with a piece of tape to hold it in place.
 
-![Step 3](https://github.com/spark/wordclock/blob/master/images/step3.jpg)
+![Step 3](https://github.com/particle-iot/wordclock/blob/master/images/step3.jpg)
 
-![Step 4](https://github.com/spark/wordclock/blob/master/images/step4.jpg)
+![Step 4](https://github.com/particle-iot/wordclock/blob/master/images/step4.jpg)
 
-![Step 4b](https://github.com/spark/wordclock/blob/master/images/step4b.jpg)
+![Step 4b](https://github.com/particle-iot/wordclock/blob/master/images/step4b.jpg)
 
-![Step 5](https://github.com/spark/wordclock/blob/master/images/step5.jpg)
+![Step 5](https://github.com/particle-iot/wordclock/blob/master/images/step5.jpg)
 
-![Step 6](https://github.com/spark/wordclock/blob/master/images/step6.jpg)
+![Step 6](https://github.com/particle-iot/wordclock/blob/master/images/step6.jpg)
 
  
  Put the Photon in the shield that came with the kit, aligning it with the outline on the board. Then, screw in the wired connector to the board, taking care you use the red wires for positive and the black ones for negative. Place the board on the panel, making sure the connector is in the middle of the left receptor:
 
-![Step 7](https://github.com/spark/wordclock/blob/master/images/step7.jpg)
+![Step 7](https://github.com/particle-iot/wordclock/blob/master/images/step7.jpg)
 
-![Step 7b](https://github.com/spark/wordclock/blob/master/images/rgb-clock-back.jpg)
+![Step 7b](https://github.com/particle-iot/wordclock/blob/master/images/rgb-clock-back.jpg)
  
 Then put the back cover on the case and secure it with some tape. Insert the power cable while you're at it: 
 
-![Step 8](https://github.com/spark/wordclock/blob/master/images/step8.jpg)
+![Step 8](https://github.com/particle-iot/wordclock/blob/master/images/step8.jpg)
 
 
 ### Setup (programming guide):
